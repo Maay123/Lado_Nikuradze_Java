@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Exercise_6 {
     public Exercise_6(){
-        System.out.println("Exercise6");
+        System.out.println("Exercise_6");
         int x ,s=0;
         Scanner scanner = new Scanner(System.in);
         System.out.print("X=");
